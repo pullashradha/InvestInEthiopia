@@ -12,8 +12,9 @@ body {
 }
 
 .nav {
-  margin-left: 70px;
-  margin-right: 40px;
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 a {
@@ -23,7 +24,7 @@ a {
 
 a:hover {
   text-decoration: none;
-  color: #000000;
+  color: #FF0000;
 }
 
 .invest-title {
