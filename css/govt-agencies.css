@@ -27,3 +27,18 @@ a:hover {
   text-decoration: none;
   color: #FF0000;
 }
+
+/*--------------------Footer Styles--------------------*/
+
+.footer {
+  background-color: #000000;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+}
+
+.footer h4 {
+  font-size: 15pt;
+  text-align: left;
+  color: #FFFFFF;
+}

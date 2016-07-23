@@ -1,0 +1,44 @@
+body {
+  font-family: serif;
+  color: #000000;
+}
+
+/*--------------------NavBar Styles--------------------*/
+
+#navbar {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+.nav {
+  margin-left: -35px;
+}
+
+.nav h3 {
+  font-size: 15pt;
+}
+
+a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #FF0000;
+}
+
+/*--------------------Footer Styles--------------------*/
+
+.footer {
+  background-color: #000000;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+}
+
+.footer h4 {
+  font-size: 15pt;
+  text-align: left;
+  color: #FFFFFF;
+}
