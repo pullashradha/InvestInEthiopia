@@ -3,6 +3,8 @@ body {
   color: #000000;
 }
 
+/*--------------------NavBar Styles--------------------*/
+
 .jumbotron {
   background-color: #000000;
   color: #FFFFFF;
@@ -26,8 +28,10 @@ a:hover {
   color: #FF0000;
 }
 
+/*--------------------Content Styles--------------------*/
+
 .content {
-  margin-top: 100px;
+  margin-top: 150px;
   margin-left: 100px;
   margin-right: 100px;
 }
