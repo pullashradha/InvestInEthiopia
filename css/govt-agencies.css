@@ -15,12 +15,12 @@ body {
   text-align: right;
 }
 
-a {
+.nav a {
   text-decoration: none;
   color: #FFFFFF;
 }
 
-a:hover {
+.nav a:hover {
   text-decoration: none;
   color: #FF0000;
 }
@@ -55,10 +55,17 @@ table h3 {
   margin-top: 35px;
 }
 
+#email {
+  text-align: center;
+  font-size: 18pt;
+  margin-top: 75px;
+  margin-bottom: 50px;
+}
+
 /*--------------------Footer Styles--------------------*/
 
 .footer {
-  position: absolute;
+  position: static;
   bottom: 0px;
   width: 100%;
   background-color: #000000;
