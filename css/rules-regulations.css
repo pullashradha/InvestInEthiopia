@@ -25,6 +25,14 @@ a:hover {
   color: #FF0000;
 }
 
+/*--------------------Content Styles--------------------*/
+
+.content {
+  margin-top: 150px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
 /*--------------------Footer Styles--------------------*/
 
 .footer {
