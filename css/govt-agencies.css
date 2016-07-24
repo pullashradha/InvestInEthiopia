@@ -10,12 +10,9 @@ body {
   color: #FFFFFF;
 }
 
-.nav {
-  margin-left: -35px;
-}
-
 .nav h3 {
   font-size: 15pt;
+  text-align: right;
 }
 
 a {
