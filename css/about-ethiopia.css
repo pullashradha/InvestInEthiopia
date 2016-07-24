@@ -36,3 +36,18 @@ a:hover {
   margin-left: 100px;
   margin-right: 100px;
 }
+
+/*--------------------Footer Styles--------------------*/
+
+.footer {
+  background-color: #000000;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+}
+
+.footer h4 {
+  font-size: 15pt;
+  text-align: left;
+  color: #FFFFFF;
+}
