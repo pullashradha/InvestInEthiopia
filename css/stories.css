@@ -45,6 +45,7 @@ h2 {
 
 .section-title:hover {
   background: #000000;
+  cursor: pointer;
 }
 
 /*--------------------Footer Styles--------------------*/
