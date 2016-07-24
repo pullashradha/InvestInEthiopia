@@ -25,6 +25,36 @@ a:hover {
   color: #FF0000;
 }
 
+/*--------------------Table Styles--------------------*/
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  padding-right: 25px;
+  padding-left: 25px;
+}
+
+#agency-name {
+  margin-right: 20px;
+}
+
+.table-values td {
+  border-right: 3px solid black;
+}
+
+table td:last-child {
+  border-right: none;
+}
+
+table h3 {
+  text-align: center;
+  font-size: 18pt;
+  margin-top: 35px;
+}
+
 /*--------------------Footer Styles--------------------*/
 
 .footer {
