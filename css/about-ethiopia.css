@@ -10,12 +10,9 @@ body {
   color: #FFFFFF;
 }
 
-.nav {
-  margin-left: -35px;
-}
-
 .nav h3 {
   font-size: 15pt;
+  text-align: right;
 }
 
 a {
@@ -26,6 +23,10 @@ a {
 a:hover {
   text-decoration: none;
   color: #FF0000;
+}
+
+.menu-item {
+  margin-left: 0px;
 }
 
 /*--------------------Content Styles--------------------*/
