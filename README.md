@@ -13,7 +13,7 @@ The website is a static page. It will allow investors to learn about agriculture
 
 ## Known Bugs
 
-No known bugs.
+* Webpage is NOT responsive
 
 ## Specifications
 

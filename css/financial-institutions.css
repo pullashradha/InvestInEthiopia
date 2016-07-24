@@ -25,6 +25,38 @@ a:hover {
   color: #FF0000;
 }
 
+/*--------------------Buttons Styles--------------------*/
+
+.financial-buttons {
+  text-align: center;
+  margin-top: 150px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.financial-buttons .jumbotron {
+  background-image: url("../img/wheat-field.jpg");
+  background-size: cover;
+}
+
+.financial-buttons h1 {
+  font-size: 25pt;
+  color: #FFFFFF;
+}
+
+.financial-buttons .jumbotron:hover {
+  cursor: pointer;
+  background: #000000;
+}
+
+.fed-btn {
+  margin-right: 20px;
+}
+
+.state-btn {
+  margin-left: 20px;
+}
+
 /*--------------------Footer Styles--------------------*/
 
 .footer {
