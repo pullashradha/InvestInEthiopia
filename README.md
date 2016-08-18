@@ -1,4 +1,4 @@
-# Invest In Ethiopia Webpage
+# Invest In Ethiopia
 
 #### By Shradha Pulla, 07/23/2016
 
@@ -7,6 +7,8 @@
 The website is a static page. It will allow investors to learn about agriculture in Ethiopia, and different sectors to invest in.
 
 ## Setup/Installation Requirements
+
+This program can only be accessed on computer with Git and Atom software and npm, bower, and gulp globally installed.
 
 * Clone this repository
 * Open index.html in Terminal
@@ -17,15 +19,15 @@ The website is a static page. It will allow investors to learn about agriculture
 
 ## Specifications
 
-The program should handle... | Example Input | Example Output
+The program should... | Example Input | Example Output
 ----- | ----- | -----
-Spec 1 | Example Input: | Example Output:
+--- | --- | ---
 
 ## Future Features
 
 HTML | CSS | JavaScript
 ----- | ----- | -----
-Example Feature 1 | Example Feature 1 | Example Feature 1
+--- | --- | ---
 
 ## Support and Contact Details
 
