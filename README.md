@@ -8,7 +8,7 @@ The website is a static page. It will allow investors to learn about agriculture
 
 ## Setup/Installation Requirements
 
-This program can only be accessed on computer with Git and Atom software and npm, bower, and gulp globally installed.
+This program can only be accessed on a computer with Git and Atom software, and npm, bower, and gulp globally installed.
 
 * Clone this repository
 * Open index.html in Terminal
